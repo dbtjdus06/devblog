@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to use Anroid Studio"
+title:  "How to use Android Studio"
 date:   2023-01-20 00:21:56 +0900
 categories: research
 ---
